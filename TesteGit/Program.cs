@@ -8,7 +8,7 @@ namespace TesteGit
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia!");
-
+            Console.WriteLine("Esqueci de colocar a menssagen no commit");
             Console.WriteLine();
         }
     }
